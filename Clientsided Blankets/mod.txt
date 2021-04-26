@@ -1,7 +1,7 @@
 {
 	"blt_version": 2,
 	"name": "Clientsided Blankets",
-	"description": "Makes Lab Rats' blanket falldamage negation clientsided.",
+	"description": "Makes Lab Rats' blanket fall damage negation clientsided.",
 	"author": "powware",
 	"contact": "https://github.com/powware",
 	"version": "1",
