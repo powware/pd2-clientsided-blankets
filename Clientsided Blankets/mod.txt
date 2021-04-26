@@ -1,0 +1,15 @@
+{
+	"blt_version": 2,
+	"name": "Clientsided Blankets",
+	"description": "Makes Lab Rats' blanket falldamage negation clientsided.",
+	"author": "powware",
+	"contact": "https://github.com/powware",
+	"version": "1",
+	"color": "0.1 1 0.5",
+	"hooks": [
+		{
+			"hook_id": "core/lib/managers/mission/coreelementarea",
+			"script_path": "coreelementarea.lua"
+		}
+	]
+}
